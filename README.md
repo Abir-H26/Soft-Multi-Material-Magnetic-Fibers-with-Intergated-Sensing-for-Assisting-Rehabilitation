@@ -1,9 +1,9 @@
 <h1>Soft Multi‑Material Magnetic Fibers and Textiles with Integrated Sensing</h1>
 <h3>A Soft‑Robotics Platform with Embedded Perception and ML‑Driven Curvature Tracking</h3>
 
-<h2>📘 Overview</h2>
+<h2>Overview</h2>
 <p>
-  This repository contains the software, models, and supplementary materials for our research on
+  This repository contains the published paper for our research on
   <strong>soft multi‑material magnetic fibers</strong> with <strong>integrated sensing and real‑time perception</strong>.
   The system combines:
 </p>
@@ -18,13 +18,8 @@
   This work is presented in our scientific paper, which details the fabrication, sensing, actuation,
   and ML‑based perception pipeline.
 </p>
-<blockquote>
-  “We introduce thermal drawing as a materials and processing platform to develop advanced soft,
-  multi‑material magnetic fibers… with integrated sensing capabilities.”
-  <br><em>(from the Abstract)</em>
-</blockquote>
 
-<h2>🧠 Technical Highlights (Robotics • Computer Vision • Machine Learning)</h2>
+<h2> Technical Highlights (Robotics • Computer Vision • Machine Learning)</h2>
 
 <h3>1. Soft‑Robotic Fiber Fabrication</h3>
 <p>
@@ -38,10 +33,6 @@
   <li>Embedded magnetic actuation</li>
   <li>Scalable production for soft‑robotic systems</li>
 </ul>
-<blockquote>
-  “The fibers exhibit high sensitivity and mechanical stability under various loading conditions…”
-  <br><em>(from the Abstract)</em>
-</blockquote>
 
 <h3>2. Embedded Piezoresistive Sensing</h3>
 <p>
@@ -81,10 +72,6 @@
   <li>Precision/recall ≈ <strong>0.85</strong></li>
   <li>Real‑time tracking at ~30 FPS</li>
 </ul>
-<blockquote>
-  “YOLOv8 demonstrated superior performance, with a higher mean Average Precision (mAP) and lower latency…”
-  <br><em>(from Section III.B)</em>
-</blockquote>
 <p>
   This transforms the fiber into an <strong>intelligent soft‑robotic element</strong> with embedded perception.
 </p>
@@ -101,10 +88,6 @@
 <p>
   A 5 × 5 cm textile patch generates <strong>≈ 7 N of force</strong> under a 250 mT magnetic field.
 </p>
-<blockquote>
-  “These hybrid textiles are programmable for shape morphing… and are machine washable.”
-  <br><em>(from the Abstract)</em>
-</blockquote>
 <p>Applications include:</p>
 <ul>
   <li>Soft orthoses</li>
@@ -113,16 +96,7 @@
   <li>Adaptive medical textiles</li>
 </ul>
 
-<h2>🚀 Getting Started</h2>
-<p>You can extend this section based on your codebase, for example:</p>
-<ul>
-  <li>Environment setup and dependencies</li>
-  <li>Installing YOLOv8 and required libraries</li>
-  <li>Running the curvature‑tracking pipeline</li>
-  <li>Reproducing electromechanical tests</li>
-</ul>
-
-<h2>🎯 Key Features</h2>
+<h2> Key Features</h2>
 <ul>
   <li>Soft‑robotic fibers with integrated sensing</li>
   <li>YOLOv8‑based real‑time curvature tracking</li>
@@ -131,10 +105,6 @@
   <li>Applications in rehabilitation and soft orthoses</li>
   <li>Scalable thermal‑drawing manufacturing</li>
 </ul>
-
-<h2>🤝 Contributions</h2>
-<p>
-  Contributions and discussions are welcome. Please open an issue or submit a pull request.
 </p>
 
 <h2>📄 License</h2>

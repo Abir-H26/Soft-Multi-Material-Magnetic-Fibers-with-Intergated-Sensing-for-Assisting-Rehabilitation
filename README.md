@@ -106,8 +106,3 @@
   <li>Scalable thermal‑drawing manufacturing</li>
 </ul>
 </p>
-
-<h2>📄 License</h2>
-<p>
-  Specify your license here (e.g., MIT, Apache 2.0, etc.).
-</p>
